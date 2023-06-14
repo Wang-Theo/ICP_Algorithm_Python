@@ -1,6 +1,5 @@
 # ICP_Algorithm_Python
-This is an SVD-based ICP algorithm to calculate transformation from point cloud
-1 to point cloud 2.
+This is an **SVD-based ICP algorithm** to calculate transformation from point cloud 1 to point cloud 2.
 
 **Pointcloud data** : two bunny pointclouds in different color
 
@@ -53,3 +52,9 @@ Pointclouds registration result (30 iterations):
 Pointclouds registration result (50 iterations):
 
 <img src="https://github.com/Wang-Theo/ICP_Algorithm_Python/blob/devel/reault_image/unmatched_pc_iter50.png" width="500" alt="matched_pc"/>
+
+## Acknowledge
+
+This project is finished from **NUS ME5413 Autonomous Mobile Robotics**
+
+Many Thanks to **Professor. Marcelo** and **Ph.D. Candidate Shuo SUN** @ NUS Advanced Robotics Centre
